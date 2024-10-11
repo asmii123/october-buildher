@@ -1,0 +1,87 @@
+The new token Hashscan URL: https://hashscan.io/testnet/token/0.0.4980612
+
+🎉 5minHtsTokenLaunchChallenge task complete!  …
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: 5minHtsTokenLaunchChallenge
+Time to first task completion: 3min 27.6s
+Time to all tasks completion: 3min 27.6s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: 5minHtsTokenLaunchChallenge (latest)
+Time taken to complete (first): 2min 5.2s
+Time taken to complete (latest): 2min 5.2s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4576382 
+Using the anonymised key: ad20c52866d903fb509da9faab00bc00
+
+
+
+Number of messages retrieved from this topic: 1
+Messages retrieved from this topic: [ '#1: Hello HCS!' ]
+
+🎉 Hello Future World - HCS Topic - complete  …
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: hcsTopic
+Time to first task completion: 2min 26.0s
+Time to all tasks completion: 2min 26.0s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: hcsTopic (latest)
+Time taken to complete (first): 34.7s
+Time taken to complete (latest): 34.7s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4573319 
+Using the anonymised key: 33e3087838ec548ccb364f6a1ec1bedd
+
+
+ file:///workspace/hello-future-world-js/hscs/script-hscs-smart-contract.js:87:16
+Smart contract write transaction fee 0.07598667 ℏ
+Smart contract write transaction hash 0x2ece4c25e5ee4e4e704870c395cdbc386f0331b133c184f1395b8af9fd3bc4db
+Smart contract write transaction Hashscan URL:
+ https://hashscan.io/testnet/transaction/0x2ece4c25e5ee4e4e704870c395cdbc386f0331b133c184f1395b8af9fd3bc4db
+
+🟣 Read data from smart contract  …
+↪️ file:///workspace/hello-future-world-js/hscs/script-hscs-smart-contract.js:106:16
+Smart contract read query result: Hello future! - 0.2.1-7487be2e - hscsSC
+
+🎉 Hello Future World - HSCS smart contract - complete  …
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: hcsTopic
+Time to first task completion: 2min 26.0s
+Time to all tasks completion: 4min 14.4s
+Total number of task completions: 2
+
+Completed tasks: 2
+(1) Task ID: hcsTopic 
+Time taken to complete (first): 34.7s
+Time taken to complete (latest): 34.7s
+Errors prior to completion: 0
+(2) Task ID: hscsSC (latest)
+Time taken to complete (first): 33.0s
+Time taken to complete (latest): 33.0s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4573319 
+Using the anonymised key: 33e3087838ec548ccb364f6a1ec1bedd
